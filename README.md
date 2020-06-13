@@ -1,7 +1,5 @@
-![logo](https://repository-images.githubusercontent.com/186841818/8aa95700-7730-11e9-84be-e80f28520325)
-
-# EvoBot (Discord Music Bot)
-> EvoBot is a Discord Music Bot built with discord.js & uses Command Handler from [discordjs.guide](https://discordjs.guide)
+# Hydrotune
+> Hydrotune is a Discord Music Bot built with discord.js & uses Command Handler from [discordjs.guide](https://discordjs.guide)
 
 ## Requirements
 
@@ -12,14 +10,12 @@
 ## Installation
 
 ```
-git clone https://github.com/eritislami/evobot.git
-cd evobot
+git clone https://github.com/eritislami/hydrotune-for-world.git hydrotune
+cd hydrotune
 npm install
 ```
 
 After installation finishes you can use `node index.js` to start the bot.
-
-If you are planning to use ***Glitch.com*** please read [#27](https://github.com/eritislami/evobot/issues/27)
 
 ## Configuration
 
