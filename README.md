@@ -36,15 +36,15 @@ Copy or Rename `config.json.example` to `config.json` and fill out the values:
 > Note: The default prefix is '/'
 
 * 🎶 Play music from YouTube via url
-  * `/play https://www.youtube.com/watch?v=GLvohMXgcBo`
+  * `/play https://www.youtube.com/watch?v=3tmd-ClpJxA`
 * 🔎 Play music from YouTube via search query
-  * `/play under the bridge red hot chili peppers`
+  * `/play look what you made me do`
 * 🔎 Search and select music to play
-  * `/search Pearl Jam`
+  * `/search Look what you made me do`
 * 📃 Play youtube playlists via url
-  * `/playlist https://www.youtube.com/watch?v=YlUKcNNmywk&list=PL5RNCwK3GIO13SR_o57bGJCEmqFAwq82c`
+  * `/playlist https://www.youtube.com/playlist?list=PLDRXqtTdSfM42QvoGF4zCpCzXtSl7KMpv`
 * 🔎 Play youtube playlists via search query
-  * `/playlist linkin park meteora`
+  * `/playlist Taylor Swift Best`
 * Command Handler from [discordjs.guide](https://discordjs.guide/)
 * Now Playing (/np)
 * Queue system (/queue, /q)
